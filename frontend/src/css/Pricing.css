@@ -1,0 +1,24 @@
+.pricing-box {
+  display: inline;
+  width: 20%;
+  gap: 1.25rem;
+}
+
+.pricing-box:nth-child(1) p,
+.pricing-box:nth-child(2) p {
+  position: relative;
+  left: 6.25rem;
+  top: -3.125rem;
+}
+
+.pricing-box:nth-child(3) p {
+  position: relative;
+  left: 7.8125rem;
+  top: -3.125rem;
+}
+
+.pricing-box p {
+  font-size: 0.625rem;
+  margin: 0;
+  line-height: 1rem;
+}

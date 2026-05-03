@@ -1,0 +1,16 @@
+footer {
+    background-color: #FBFBFB;
+}
+
+.col a {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.extra  {
+  color: #397ED1;
+}
+
+.extra:hover {
+  color: black;
+}
