@@ -25,11 +25,11 @@
 <img width="1906" height="862" alt="image" src="https://github.com/user-attachments/assets/0f0f75c0-d182-4584-be16-0e31542cdc84" />
 <br><br>
 
-> Sign Up Page
+> Sign Up Page (with dropdown)
 <img width="1912" height="872" alt="image" src="https://github.com/user-attachments/assets/4da0ba0c-095d-4c7b-9007-53c40187f7b2" />
-<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/087eb0d3-91d8-4397-ad9b-ed29dd76981c" />
+<img width="1347" height="612" alt="image" src="https://github.com/user-attachments/assets/575698ca-d999-4ddd-bbde-489b49e46fc1" />
 <br><br>
 
 > Support Page
-<img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/b74f312c-3d5a-4111-81c2-604555945700" />
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/087eb0d3-91d8-4397-ad9b-ed29dd76981c" />
 <img width="1918" height="872" alt="image" src="https://github.com/user-attachments/assets/bee50cbb-fbd8-46e5-9ce6-6f5d8f9d1c84" />
